@@ -18,6 +18,5 @@ export PS1="[\u@\h \w]\\$ "
 export LSCOLORS=gxfxcxdxbxegedabagacad
 export LANG=en_US.UTF-8
 export LC_CTYPE=en_US.UTF-8
-#export PATH="/usr/local/git/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:$PATH"
 
 eval "$(direnv hook bash)"
