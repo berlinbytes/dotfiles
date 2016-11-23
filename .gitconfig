@@ -2,3 +2,6 @@
 	excludesfile = ~/.gitignore_global
 [push]
 	default = simple
+[user]
+	name = kobayashi_kentaro
+	email = kobayashi_kentaro@cyberagent.co.jp

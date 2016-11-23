@@ -39,6 +39,7 @@ brew 'homebrew/dupes/rsync'
 brew 'laurent22/massren/massren'
 cask 'adobe-reader'
 cask 'appcleaner'
+cask 'avidemux'
 cask 'burn'
 cask 'caffeine'
 cask 'cheatsheet'
@@ -46,6 +47,7 @@ cask 'chrome-remote-desktop-host'
 cask 'clipmenu'
 cask 'cyberduck'
 cask 'dropbox'
+cask 'firefox'
 cask 'flux'
 cask 'gas-mask'
 cask 'google-chrome'
@@ -55,10 +57,13 @@ cask 'iterm2'
 cask 'java'
 cask 'karabiner'
 cask 'macdown'
+cask 'marp'
+cask 'opera'
 cask 'qlmarkdown'
 cask 'qlstephen'
 cask 'quicklook-json'
 cask 'securid'
+cask 'simple-comic'
 cask 'skype'
 cask 'vlc'
 mas 'Alfred', id: 405843582
@@ -67,9 +72,12 @@ mas 'EchofonLite', id: 403858460
 mas 'Keynote', id: 409183694
 mas 'Microsoft OneNote', id: 784801555
 mas '1Password', id: 443987910
+mas 'Install OS X Mountain Lion', id: 537386512
+mas 'TUT Touch Typing', id: 962713362
 mas 'Pocket', id: 568494494
 mas 'Slack', id: 803453959
 mas 'Wunderlist', id: 410628904
 mas 'ClipboardPlain', id: 528607880
 mas 'Blackmagic Disk Speed Test', id: 425264550
 mas 'LINE', id: 539883307
+mas 'Install macOS Sierra', id: 1127487414
