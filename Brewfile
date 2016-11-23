@@ -51,6 +51,7 @@ cask 'firefox'
 cask 'flux'
 cask 'gas-mask'
 cask 'google-chrome'
+cask 'google-cloud-sdk'
 cask 'google-drive'
 cask 'google-japanese-ime'
 cask 'handbrake'
@@ -75,7 +76,6 @@ mas 'EchofonLite', id: 403858460
 mas 'Keynote', id: 409183694
 mas 'Microsoft OneNote', id: 784801555
 mas '1Password', id: 443987910
-mas 'Install OS X Mountain Lion', id: 537386512
 mas 'TUT Touch Typing', id: 962713362
 mas 'Pocket', id: 568494494
 mas 'Slack', id: 803453959
