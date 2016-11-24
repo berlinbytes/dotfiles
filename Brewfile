@@ -83,4 +83,3 @@ mas 'Wunderlist', id: 410628904
 mas 'ClipboardPlain', id: 528607880
 mas 'Blackmagic Disk Speed Test', id: 425264550
 mas 'LINE', id: 539883307
-mas 'Install macOS Sierra', id: 1127487414
