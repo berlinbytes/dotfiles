@@ -1,7 +1,7 @@
 # mac
 if [ -f `/usr/local/bin/brew --prefix`/etc/bash_completion ]; then
       . `/usr/local/bin/brew --prefix`/etc/bash_completion
-    fi
+fi
 
 # Source global definitions
 if [ -f /etc/bashrc ]; then
@@ -20,3 +20,6 @@ export LANG=en_US.UTF-8
 export LC_CTYPE=en_US.UTF-8
 
 eval "$(direnv hook bash)"
+
+source ~/Dropbox/google-cloud-sdk/path.bash.inc
+source ~/Dropbox/google-cloud-sdk/completion.bash.inc
