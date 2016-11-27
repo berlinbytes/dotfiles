@@ -69,6 +69,7 @@ cask 'securid'
 cask 'simple-comic'
 cask 'skype'
 cask 'sublime-text'
+cask 'the-unarchiver'
 cask 'vlc'
 mas 'Alfred', id: 405843582
 mas 'Xcode', id: 497799835
@@ -83,3 +84,4 @@ mas 'Wunderlist', id: 410628904
 mas 'ClipboardPlain', id: 528607880
 mas 'Blackmagic Disk Speed Test', id: 425264550
 mas 'LINE', id: 539883307
+mas 'Install macOS Sierra', id: 1127487414
