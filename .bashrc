@@ -23,3 +23,5 @@ eval "$(direnv hook bash)"
 
 source ~/Dropbox/google-cloud-sdk/path.bash.inc
 source ~/Dropbox/google-cloud-sdk/completion.bash.inc
+export PATH="$HOME/.rbenv/bin:$PATH"
+eval "$(rbenv init -)"
