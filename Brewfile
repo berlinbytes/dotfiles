@@ -32,6 +32,7 @@ brew 'xvid'
 brew 'libav'
 brew 'mas'
 brew 'nettle'
+brew 'nmap'
 brew 'packer'
 brew 'pkg-config'
 brew 'ruby-build'
@@ -65,6 +66,7 @@ cask 'java'
 cask 'karabiner'
 cask 'macdown'
 cask 'marp'
+cask 'near-lock'
 cask 'opera'
 cask 'qlmarkdown'
 cask 'qlstephen'
@@ -75,16 +77,16 @@ cask 'skype'
 cask 'sublime-text'
 cask 'the-unarchiver'
 cask 'vlc'
-mas 'Xcode', id: 497799835
 mas 'Alfred', id: 405843582
+mas 'Xcode', id: 497799835
 mas 'Keynote', id: 409183694
 mas 'EchofonLite', id: 403858460
 mas 'Microsoft OneNote', id: 784801555
 mas '1Password', id: 443987910
 mas 'TUT Touch Typing', id: 962713362
-mas 'Pocket', id: 568494494
+mas 'Wunderlist', id: 410628904
 mas 'ClipboardPlain', id: 528607880
 mas 'Slack', id: 803453959
-mas 'Wunderlist', id: 410628904
+mas 'Pocket', id: 568494494
 mas 'Blackmagic Disk Speed Test', id: 425264550
 mas 'LINE', id: 539883307
