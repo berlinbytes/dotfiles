@@ -22,3 +22,7 @@ $ cd ~/git/dotfiles
 $ brew tap Homebrew/bundle
 $ brew bundle
 ```
+### Brewfileのアップデート
+```
+brew bundle dump -f
+```
