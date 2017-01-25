@@ -3,6 +3,10 @@ if [ -f `/usr/local/bin/brew --prefix`/etc/bash_completion ]; then
       . `/usr/local/bin/brew --prefix`/etc/bash_completion
 fi
 
+#google-cloud-sdk
+source '/usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/path.bash.inc'
+source '/usr/local/Caskroom/google-cloud-sdk/latest/google-cloud-sdk/completion.bash.inc'
+
 # Source global definitions
 if [ -f /etc/bashrc ]; then
           . /etc/bashrc
