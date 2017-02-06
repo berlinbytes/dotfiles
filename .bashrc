@@ -18,6 +18,8 @@ alias ll='ls -laG'
 alias cssh='csshX --host'
 alias rename='massren'
 PATH="$PATH":/usr/local/bin
+PYTHONPATH=/usr/local/pyhton
+export PYTHONPATH
 export PS1="[\u@\h \w]\\$ "
 export LSCOLORS=gxfxcxdxbxegedabagacad
 export LANG=en_US.UTF-8
