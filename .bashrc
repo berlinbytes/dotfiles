@@ -17,7 +17,7 @@ alias ls='ls -G'
 alias ll='ls -laG'
 alias cssh='csshX --host'
 alias rename='massren'
-export PYTHONPATH="${PYTHONPATH}:/usr/local/pyhton"
+export PYTHONPATH="/usr/local/pyhton"
 export PYTHONPATH
 export PS1="[\u@\h \w]\\$ "
 export LSCOLORS=gxfxcxdxbxegedabagacad
