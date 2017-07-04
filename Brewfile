@@ -79,6 +79,7 @@ cask "simple-comic"
 cask "skype"
 cask "sublime-text"
 cask "the-unarchiver"
+cask "tunnelblick"
 cask "vlc"
 mas "1Password", id: 443987910
 mas "Alfred", id: 405843582
