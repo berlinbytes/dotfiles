@@ -13,7 +13,6 @@ brew "sqlite"
 brew "python"
 brew "ansible"
 brew "autoconf"
-brew "awscli"
 brew "bash-completion"
 brew "cmake"
 brew "coreutils"
@@ -46,12 +45,11 @@ brew "ssh-copy-id"
 brew "stoken"
 brew "tfenv"
 brew "tree"
-brew "watch"
+brew "unrar"
 brew "wget"
 brew "laurent22/massren/massren"
 cask "adobe-reader"
 cask "appcleaner"
-cask "atom"
 cask "avidemux"
 cask "burn"
 cask "caffeine"
@@ -89,12 +87,13 @@ mas "Alfred", id: 405843582
 mas "Blackmagic Disk Speed Test", id: 425264550
 mas "ClipboardPlain", id: 528607880
 mas "EchofonLite", id: 403858460
-mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
+mas "Install macOS High Sierra", id: 0
+mas "Install OS X Mountain Lion", id: 537386512
 mas "Keynote", id: 409183694
 mas "LINE", id: 539883307
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
+mas "Microsoft OneNote", id: 784801555
+mas "Microsoft Remote Desktop", id: 715768417
 mas "Pocket", id: 568494494
 mas "Slack", id: 803453959
 mas "TUT Touch Typing", id: 962713362
