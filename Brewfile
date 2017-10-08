@@ -1,9 +1,10 @@
-tap "caskroom/cask"
+tap "laurent22/massren"
+tap "homebrew/dupes"
+tap "homebrew/core"
 tap "homebrew/binary"
 tap "homebrew/bundle"
-tap "homebrew/core"
-tap "homebrew/dupes"
-tap "laurent22/massren"
+tap "caskroom/versions"
+tap "caskroom/cask"
 brew "libyaml"
 brew "openssl@1.1"
 brew "gdbm"
@@ -48,7 +49,7 @@ brew "tree"
 brew "unrar"
 brew "wget"
 brew "laurent22/massren/massren"
-cask "adobe-reader"
+cask "adobe-acrobat-reader"
 cask "appcleaner"
 cask "avidemux"
 cask "burn"
@@ -57,14 +58,11 @@ cask "cheatsheet"
 cask "chrome-remote-desktop-host"
 cask "clipy"
 cask "cyberduck"
-cask "dropbox"
 cask "firefox"
 cask "flux"
 cask "gas-mask"
 cask "google-chrome"
 cask "google-cloud-sdk"
-cask "google-drive"
-cask "google-japanese-ime"
 cask "handbrake"
 cask "iterm2"
 cask "java"
@@ -88,7 +86,6 @@ mas "Blackmagic Disk Speed Test", id: 425264550
 mas "ClipboardPlain", id: 528607880
 mas "EchofonLite", id: 403858460
 mas "iMovie", id: 408981434
-mas "Install macOS High Sierra", id: 0
 mas "Install OS X Mountain Lion", id: 537386512
 mas "Keynote", id: 409183694
 mas "LINE", id: 539883307
