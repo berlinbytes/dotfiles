@@ -17,6 +17,8 @@ alias ls='ls -G'
 alias ll='ls -laG'
 alias cssh='csshX --host'
 alias rename='massren'
+alias ec2-m="aws ec2 describe-instances --filter "Name=tag:Type,Values=MongoDB" "Name=instance-state-name,Values=running" | jq -c '.Reservations[].Instances[] | {PrivateIpAddress, Tags}'"
+alias ec2-mc="ec2-m | jq -r .PrivateIpAddress"
 export PYTHONPATH="/usr/local/pyhton"
 export PYTHONPATH
 export PS1="[\u@\h \w]\\$ "

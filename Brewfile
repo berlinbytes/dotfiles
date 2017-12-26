@@ -1,19 +1,18 @@
-tap "laurent22/massren"
-tap "homebrew/dupes"
-tap "homebrew/core"
+tap "caskroom/cask"
 tap "homebrew/binary"
 tap "homebrew/bundle"
-tap "caskroom/versions"
-tap "caskroom/cask"
+tap "homebrew/core"
+tap "homebrew/dupes"
+tap "laurent22/massren"
 brew "libyaml"
 brew "openssl@1.1"
 brew "gdbm"
-brew "openssl"
 brew "readline"
 brew "sqlite"
 brew "python"
 brew "ansible"
 brew "autoconf"
+brew "awscli"
 brew "bash-completion"
 brew "cmake"
 brew "coreutils"
@@ -46,11 +45,12 @@ brew "ssh-copy-id"
 brew "stoken"
 brew "tfenv"
 brew "tree"
-brew "unrar"
+brew "watch"
 brew "wget"
 brew "laurent22/massren/massren"
-cask "adobe-acrobat-reader"
+cask "adobe-reader"
 cask "appcleaner"
+cask "atom"
 cask "avidemux"
 cask "burn"
 cask "caffeine"
@@ -58,15 +58,16 @@ cask "cheatsheet"
 cask "chrome-remote-desktop-host"
 cask "clipy"
 cask "cyberduck"
+cask "dropbox"
 cask "firefox"
 cask "flux"
 cask "gas-mask"
 cask "google-chrome"
 cask "google-cloud-sdk"
+cask "google-drive"
 cask "handbrake"
 cask "iterm2"
 cask "java"
-cask "karabiner-elements"
 cask "macdown"
 cask "marp"
 cask "opera"
@@ -83,14 +84,12 @@ cask "vlc"
 mas "1Password", id: 443987910
 mas "Alfred", id: 405843582
 mas "Blackmagic Disk Speed Test", id: 425264550
-mas "ClipboardPlain", id: 528607880
 mas "EchofonLite", id: 403858460
 mas "iMovie", id: 408981434
-mas "Install OS X Mountain Lion", id: 537386512
 mas "Keynote", id: 409183694
 mas "LINE", id: 539883307
-mas "Microsoft OneNote", id: 784801555
-mas "Microsoft Remote Desktop", id: 715768417
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
 mas "Pocket", id: 568494494
 mas "Slack", id: 803453959
 mas "TUT Touch Typing", id: 962713362
