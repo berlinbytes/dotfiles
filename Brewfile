@@ -5,13 +5,12 @@ tap "homebrew/binary"
 tap "homebrew/bundle"
 tap "caskroom/cask"
 brew "libyaml"
-brew "openssl@1.1"
 brew "gdbm"
 brew "readline"
 brew "sqlite"
-brew "python"
 brew "ansible"
 brew "autoconf"
+brew "python"
 brew "awscli"
 brew "bash-completion"
 brew "cmake"
@@ -32,8 +31,11 @@ brew "x264"
 brew "xvid"
 brew "libav"
 brew "mas"
+brew "mongodb"
 brew "nettle"
+brew "ngrep"
 brew "nmap"
+brew "openssl@1.1"
 brew "packer"
 brew "pkg-config"
 brew "pyenv"
@@ -91,6 +93,5 @@ mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
 mas "Pocket", id: 568494494
 mas "Slack", id: 803453959
-mas "TUT Touch Typing", id: 962713362
 mas "Wunderlist", id: 410628904
 mas "Xcode", id: 497799835
