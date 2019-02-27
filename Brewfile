@@ -1,21 +1,20 @@
 tap "homebrew/binary"
 tap "homebrew/bundle"
 tap "homebrew/cask"
+tap "homebrew/cask-versions"
 tap "homebrew/core"
 tap "homebrew/dupes"
 tap "laurent22/massren"
-brew "libyaml"
+tap "parera10/csshx"
+brew "autoconf"
 brew "gdbm"
+brew "openssl"
 brew "readline"
 brew "sqlite"
-brew "ansible"
-brew "autoconf"
-brew "python"
 brew "awscli"
 brew "bash-completion"
 brew "cmake"
 brew "coreutils"
-brew "csshx"
 brew "curl"
 brew "direnv"
 brew "faac"
@@ -29,14 +28,15 @@ brew "gmp"
 brew "go"
 brew "oniguruma"
 brew "jq"
+brew "jsonlint"
 brew "libav"
+brew "libyaml"
 brew "mas"
-brew "mongodb"
 brew "nettle"
-brew "ngrep"
 brew "nmap"
 brew "opencv"
 brew "openssl@1.1"
+brew "p7zip"
 brew "packer"
 brew "pkg-config"
 brew "pyenv"
@@ -49,25 +49,24 @@ brew "stoken"
 brew "tesseract"
 brew "tfenv"
 brew "tree"
-brew "vault"
-brew "watch"
+brew "unrar"
 brew "wget"
 brew "laurent22/massren/massren"
+brew "parera10/csshx/csshx"
 cask "adobe-acrobat-reader"
 cask "appcleaner"
-cask "atom"
+cask "authy"
 cask "avidemux"
-cask "awa"
 cask "burn"
 cask "caffeine"
 cask "cheatsheet"
 cask "chrome-remote-desktop-host"
 cask "clipy"
 cask "cyberduck"
-cask "dropbox"
 cask "firefox"
 cask "flux"
 cask "gas-mask"
+cask "google-chrome"
 cask "google-cloud-sdk"
 cask "google-drive-file-stream"
 cask "handbrake"
@@ -88,12 +87,14 @@ cask "vlc"
 mas "1Password", id: 443987910
 mas "Alfred", id: 405843582
 mas "Blackmagic Disk Speed Test", id: 425264550
-mas "GarageBand", id: 682658836
+mas "ClipboardPlain", id: 528607880
+mas "GIPHY CAPTURE", id: 668208984
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "LINE", id: 539883307
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
+mas "Microsoft OneNote", id: 784801555
+mas "Microsoft Remote Desktop", id: 715768417
+mas "PicGIF Lite", id: 844918735
 mas "Pocket", id: 568494494
 mas "Slack", id: 803453959
 mas "TUT Touch Typing", id: 962713362
