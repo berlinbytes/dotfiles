@@ -71,9 +71,12 @@ cask "google-cloud-sdk"
 cask "google-drive-file-stream"
 cask "handbrake"
 cask "iterm2"
+cask "jasper"
 cask "java"
 cask "macdown"
 cask "marp"
+cask "near-lock"
+cask "openemu"
 cask "opera"
 cask "qlmarkdown"
 cask "qlstephen"
@@ -84,6 +87,7 @@ cask "sublime-text"
 cask "the-unarchiver"
 cask "tunnelblick"
 cask "vlc"
+cask "zoomus"
 mas "1Password", id: 443987910
 mas "Alfred", id: 405843582
 mas "Blackmagic Disk Speed Test", id: 425264550
@@ -94,7 +98,6 @@ mas "Keynote", id: 409183694
 mas "LINE", id: 539883307
 mas "Microsoft OneNote", id: 784801555
 mas "Microsoft Remote Desktop", id: 715768417
-mas "PicGIF Lite", id: 844918735
 mas "Pocket", id: 568494494
 mas "Slack", id: 803453959
 mas "TUT Touch Typing", id: 962713362
