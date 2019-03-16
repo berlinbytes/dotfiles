@@ -20,8 +20,6 @@ alias rename='massren'
 alias ec2-m="aws ec2 describe-instances --filter "Name=tag:Type,Values=MongoDB" "Name=instance-state-name,Values=running" | jq -c '.Reservations[].Instances[] | {PrivateIpAddress, Tags}'"
 alias ec2-mc="ec2-m | jq -r .PrivateIpAddress"
 HISTFILESIZE=10000
-export PYTHONPATH="/usr/local/pyhton"
-export PYTHONPATH
 export PS1="[\u@\h \w]\\$ "
 export LSCOLORS=gxfxcxdxbxegedabagacad
 export LANG=en_US.UTF-8
@@ -29,6 +27,10 @@ export LC_CTYPE=en_US.UTF-8
 
 eval "$(direnv hook bash)"
 
-export PATH="$HOME/.rbenv/bin:$PATH"
+#export PYTHONPATH="/usr/local/pyhton"
+#export PYTHONPATH
+export PYENV_ROOT="$HOME/.pyenv"
+export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(rbenv init -)"
+
 eval "$(pyenv init -)"
