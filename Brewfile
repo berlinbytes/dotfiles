@@ -7,7 +7,6 @@ brew "autoconf"
 brew "bash-completion"
 brew "cmake"
 brew "coreutils"
-brew "curl"
 brew "direnv"
 brew "faac"
 brew "fping"
@@ -82,15 +81,13 @@ cask "the-unarchiver"
 cask "tunnelblick"
 cask "vlc"
 cask "zoomus"
+mas "1Password", id: 443987910
 mas "Alfred", id: 405843582
-mas "Blackmagic Disk Speed Test", id: 425264550
+mas "Disk Speed Test", id: 425264550
 mas "GarageBand", id: 682658836
 mas "iMovie", id: 408981434
 mas "Keynote", id: 409183694
 mas "LINE", id: 539883307
-mas "Microsoft OneNote", id: 784801555
-mas "Numbers", id: 409203825
-mas "Pages", id: 409201541
 mas "Pocket", id: 568494494
 mas "Slack", id: 803453959
 mas "TUT Touch Typing", id: 962713362
