@@ -19,7 +19,6 @@ $ cd ~/git/dotfiles
 
 ### brew bundleでアプリケーション類インストール
 ```
-$ brew tap Homebrew/bundle
 $ brew bundle
 ```
 ### Brewfileのアップデート
