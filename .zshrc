@@ -10,3 +10,4 @@ alias ls='ls -G'
 alias ll='ls -laG'
 alias cssh='csshX --host'
 alias rename='massren'
+export LSCOLORS=gxfxcxdxbxegedabagacad
