@@ -14,3 +14,7 @@ alias ll='ls -laG'
 alias cssh='csshX --host'
 alias rename='massren'
 export LSCOLORS=gxfxcxdxbxegedabagacad
+
+bindkey "\e[A" history-beginning-search-backward
+bindkey "\e[B" history-beginning-search-forward
+
